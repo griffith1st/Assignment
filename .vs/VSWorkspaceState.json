@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assignment1",
+    "\\Assignment1\\ConsoleCalculator",
+    "\\Assignment1\\WinFormsCalculator"
   ],
-  "SelectedNode": "\\C:\\Users\\32259\\Source\\Repos\\Assignment",
+  "SelectedNode": "\\Assignment1\\ConsoleCalculator\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
